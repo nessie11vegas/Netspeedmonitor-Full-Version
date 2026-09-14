@@ -236,4 +236,4 @@ This repository serves as the official landing page for NetSpeedMonitor. The sof
 **Get the most recent version of NetSpeedMonitor today!**
 
 ---
-**Last updated:** 2026-09-13 23:51:36 UTC
+**Last updated:** 2026-09-14 02:28:14 UTC
